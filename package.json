@@ -1,7 +1,6 @@
 {
   "name": "movie-finder",
   "version": "1.0.0",
-  "description": "Movie recommendation app",
   "main": "server.js",
   "scripts": {
     "start": "node server.js"
@@ -10,6 +9,6 @@
     "express": "^4.18.2"
   },
   "engines": {
-    "node": "18.x"
+    "node": "16.14.0"
   }
 }
